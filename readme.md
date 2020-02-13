@@ -17,7 +17,7 @@ Angular 6, Laravel 5.6 Blog
 ### Installing
 Clone repository and install dependencies with composer and npm.
 ```
-mkdir blog && git clone git@github.com:ianautiyal/angular-laravel-blog.git .
+mkdir blog && git clone git@github.com:skybear308/project_laravel_angular.git .
 composer install && npm install
 composer run-script post-root-package-install
 php artisan key:generate
