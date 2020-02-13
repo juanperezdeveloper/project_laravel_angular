@@ -35,4 +35,4 @@ npm run watch
 
 ## Authors
 
-* [**Ajay Nautiyal**](https://github.com/ianautiyal)
+* [**skybear308**](https://github.com/skybear308)
